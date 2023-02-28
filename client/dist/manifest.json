@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "./assets/icons/icon_510x510.png",
+      "sizes": "510x510",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_300x300.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_143x143.png",
+      "sizes": "143x143",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon_67x67.png",
+      "sizes": "67x67",
+      "type": "image/png"
+    }
+  ],
+  "name": "Contact Cards",
+  "short_name": "Contact",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Dont forget your contacts!",
+  "background_color": "#225ca3",
+  "theme_color": "#225ca3"
+}
